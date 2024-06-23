@@ -1,0 +1,9 @@
+the below should be added to all Python files:
+
+    from logging_decorator import log_function_call
+    from logging_config import get_logger
+
+    logger = get_logger(__name__)
+
+EXCEPTION HANDLING
+TESTING

@@ -1,0 +1,11 @@
+# dependencies
+env/
+
+# virtual environment
+venv/
+
+# logging
+app/logging/
+
+# Db
+*.db
